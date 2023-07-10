@@ -1,0 +1,40 @@
+.essay-page{
+  display: grid;
+  grid-template-columns: 500px 1fr;
+}
+
+.sidebar{
+ margin-top: 50px;
+  border-right: solid;
+  border-color: white;
+  margin-right: 25px; 
+  color:white;
+
+}
+
+.main{
+  margin-top: 50px;
+  font-size: 30px;
+  font-family: 'Crimson Text', serif;
+  color: white;
+}
+
+.source{
+  color:gray;
+  font-family: 'Crimson Text', serif;
+  font-size: 10px
+}
+.title{
+  color:white;
+  font-family: 'Crimson Text', serif;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.essay{
+  color:white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 17px;
+  margin-left: 0px;
+  margin-bottom: 100px;
+}

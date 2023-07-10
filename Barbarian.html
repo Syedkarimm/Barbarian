@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Barbarian</title>
+    <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/essays.css">
+    <link rel="stylesheet" href="styles/aboutme.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/general.css">
+</head>
+
+  <body>
+    <div class="header">
+        <div class="left-section">
+          <div class="logo">B A R B A R I A N</div>
+          <button class="previous" onclick="previousButton()">Prev</button>
+          <button class="next" onclick="nextButton()">Next</button>
+        </div>
+        <div class="middle-section">
+          <button class="essays" onclick="essayButton()">Essays</button>
+          <button class="journal" onclick="journalButton()" >Journal</button>
+          <button class="profile" onclick="aboutMeButton()">About Me</button>
+        </div>
+        <div class="right-section">
+          
+          <button class="green-theme" onclick="greenButton()">Green</button>
+          <button class="purple-theme" onclick="purpleButton()">Purple</button>
+          <button class="blue-theme" onclick="blueButton()">Blue</button>
+        
+        </div>
+    </div>
+    <div class="js-page">
+    <div class="essay-page">
+      <div class="sidebar js-sidebar">
+        
+      </div>
+      <div class="main js-main">
+        Welcome.
+      </div>
+      
+    </div>
+  </div>
+  </body>
+
+  
+  <script src="scripts/button.js"></script>
+  <script src="scripts/essays.js"></script>
+  <script src="scripts/aboutme.js"></script>
+  <script src="scripts/journal.js"></script>
+  
+  
+  
+</html>  

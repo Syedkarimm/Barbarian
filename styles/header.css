@@ -1,0 +1,117 @@
+.header{
+  display: flex;
+  background-color: transparent;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 55px;
+  border-bottom: solid;
+  border-color:white; 
+}
+
+.left-section{
+  display:flex;
+  align-items: center;
+  
+}
+
+.logo{
+  font-family: 'Crimson Text', serif;
+  font-size: 30px;
+  
+  color: rgb(255, 255, 255);
+  font-weight:400;
+
+}
+
+.previous{
+  margin-left: 25px;
+  margin-right: 10px;
+}
+
+.previous,
+.next{
+  font-family:'Crimson Text', serif;
+  font-size: 15px;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+  color: white;
+  background-color:rgb(148, 136, 136);
+}
+
+.middle-section{
+  display:flex;
+  align-items: center;
+  
+}
+
+.essays, 
+.journal,
+.profile {
+  border: none;
+  margin-right: 25px;
+  margin-left: 25px;
+  
+  font-family: 'Crimson Text', serif;
+  width: 100px;
+  font-size: 20px;
+  height: 55px;
+  background-color: transparent;
+  color: white;
+  cursor:pointer;
+}
+
+.essays:hover, 
+.journal:hover,
+.profile:hover,
+.green-theme:hover, 
+.blue-theme:hover,
+.purple-theme:hover,
+.previous:hover,
+.next:hover {
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+}
+
+
+.right-section{
+  display:flex;
+  align-items: center;
+  width:331.98px;
+  justify-content: right;
+}
+
+.green-theme,
+.purple-theme,
+.blue-theme {
+border:none;
+margin-left: 5px;
+margin-right: 5px;
+cursor: pointer;
+padding: 5px;
+border-radius: 5px;
+width: 50px;
+}
+
+.green-theme{
+  background-color: rgb(6, 75, 33);
+  color: white;
+  
+}
+
+.purple-theme {
+  background-color:rgb(90, 37, 104);
+  color: white;
+}
+
+.blue-theme{
+  background-color: rgb(17, 32, 102);
+  color: white;
+}

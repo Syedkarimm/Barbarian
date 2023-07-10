@@ -1,0 +1,30 @@
+.aboutMeTitle {
+  margin-bottom: 30px;
+  
+  
+}
+
+.aboutMeText{
+  font-size: 20px;
+  width: 700px;
+  line-height: 35px;
+
+}
+
+.topFour{
+  width: 150px;
+  height: 225px;
+  
+}
+
+.aboutMeContact{
+  margin-top: 20px;
+  font-size: 16px;
+  color:gray;
+}
+
+.letterboxd {
+  font-size: 16px;
+  margin-top: 20px;
+  color:red;
+}

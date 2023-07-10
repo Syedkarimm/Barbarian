@@ -1,0 +1,16 @@
+htmL{
+  height: 100%;
+}
+
+body{
+  background: linear-gradient(#2c3440, rgb(90, 37, 104));
+  
+  
+}
+
+.page{
+  margin-top: 50px;
+  font-size: 30px;
+  font-family: 'Crimson Text', serif;
+  color: white;
+}
