@@ -39,7 +39,7 @@ function previousButton() {
 
 function nextButton() {
   if (currentPage === 'Essay') {
-    if (pageNumber < essayWords.length-1){
+    if (pageNumber < essaysWords.length-1){
       pageNumber += 1;
       generateEssayPage();
     }
