@@ -33,8 +33,11 @@
 
 .essay{
   color:white;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 17px;
+  font-family: 'Crimson Text', Times, serif;
+  font-size: 20px;
   margin-left: 0px;
   margin-bottom: 100px;
+  width: 1000px;
+  color: rgb(225, 225, 225);
+  line-height: 35px;
 }
