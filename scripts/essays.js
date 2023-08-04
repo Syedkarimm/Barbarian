@@ -1,20 +1,20 @@
 sidebarSources =[[
-  '<img src="images/haxorus.png">',
-  '<img  src="images/infernape.png">'
+  '',
+  ''
 ],
 [
-  '<img src="images/zororak.png">'
+  ''
 ]
 ];
 essaysWords = [{
-  title: 'first one',
-  text: 'blblbalbalblabalblablalbalbalbalbalbalbalbalbalblablablablalbalbalbalbalba',
-  sources: 'source'
+  title: '',
+  text: '',
+  sources: ''
 },
 {
-  title: 'second one',
-  text: 'skskskskskskskskksksksk',
-  sources: 'source2'
+  title: 'None. yet',
+  text: '',
+  sources: ''
 }];
 
 
