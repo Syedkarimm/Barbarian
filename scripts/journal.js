@@ -1,9 +1,18 @@
 journalSources =[[
-  '<img style = "width:400px"src="images/TheWailing.jpg">',
+  '<img style = "margin-left: 25px; width:400px"src="images/TheWailing.jpg">',
   
 ],
 [
-  '<img style = "width: 400px"src="images/MemoriesOfMurder.jpg">'
+  '<img style = "margin-left: 25px; width: 400px"src="images/MemoriesOfMurder.jpg">'
+],
+[
+  '<img style = "margin-left: 25px; width: 400px"src="images/OfficeSpace.jpg">'
+],
+[
+  '<img style = "margin-left: 25px; width: 400px"src="images/Barbie.jpg">'
+],
+[
+  '<img style = "margin-left: 25px; width: 400px"src="images/Fargo.jpg">'
 ]
 ];
 journalWords = [{
@@ -13,8 +22,24 @@ journalWords = [{
 },
 {
   title: '7/14/2023',
-  text: 'lallaallalalalalalla',
+  text: 'In retrospect to my last entry, I’ve realized I should not be so formal in my writing, at least within these journal entries. Formality only acts as a barrier to writing, which is one of the reasons I am writing this a few weeks after having watched the actual film in question. I will catch up on the next few movies and from then on I will attempt to write the entry immediately after watching a movie. Memories of Murder is directed by Bong Joon-ho, famously known for directing Parasite. Bong Joon-ho is incredible at directing intense scenes that have the audience’s complete attention, and Memories of Murder is no stranger to intensity. I found myself completely invested in both the plot and the characters of Park and Seo. The movie is based on real life serial murders that occurred in South Korea. At the time of the movie’s making, the murder had yet to be caught, which is why a large aspect of the film is the critique of South Korea’s law enforcement. I do not have enough knowledge about the topic to have an in depth discussion; however, I believe this movie warrants a rewatch after further research on my part. The real world implications of this film elevate the already intense and thrilling experience of watching this film. I would recommend this film and have plans of rewatching, as I believe there is much more to unpack than what can be observed on a first watch. ',
   sources: 'http://www.impawards.com/intl/south_korea/2003/posters/salinui_chueok_xlg.jpg'
+},
+{
+  title: '7/22/2023',
+  text: '	Office Space is a 1999 comedy directed by Mike Judge. I thought this movie was nice and lighthearted. I found the comedy to be amusing, but not necessarily laugh out loud. There are some notable instances of the film which have become cemented in pop culture, and if you didn’t know where they were from it’s fun to recognize them in the movie. The movie does not warrant a great deal of discussion, and I would recommend it as something that does not require your full attention. ',
+  sources: 'http://www.impawards.com/1999/posters/office_space_xlg.jpg'
+},
+{
+  title: '7/24/2023',
+  text: 'I was very excited to watch this one. I went to the theater with a big group of friends all dressed in pink. I can’t remember the last really good movie I watched in theaters, but this film definitely rekindled my love of movie theaters. Before I discuss the movie itself I want to clear some expectations people have for this movie. This movie is not a complex and nuanced discussion of intersectional feminism and the patriarchal society we live in. But that doesn’t stop it from being a good film, and it still has an important message, even if it is a common one (though not common enough). My favorite parts of the movie were obviously Margot Robbie’s and Ryan Gosling’s performances. They had incredible chemistry on screen, despite their characters not having a typical romantic relationship. Their characters felt separate and unique, and not just extensions of each other, whilst still complimenting one and other. I absolutely adored the set and costume design. Barbie world was a near perfect conversion from childhood imagination to on screen live action. The soundtrack for the movie is amazing too, my favorite track is Angel by PinkPantheress, and I remember sitting straight up during the movie when they played it. I think this movie was important for our current day and age. The virality of this movie has done wonders for theaters and seems like the first sign of movie theaters recovering from the pandemic. I also believe the feminist message of this movie is significant too, because despite being a simple take on the subject. Personally, I am seeing a drastic conservative shift of American culture, therefore now more than ever the basics of progressivism must be reaffirmed. I hope you enjoyed this movie, or plan on seeing it if you haven’t already, and remember you’re kenough.',
+  sources: 'http://www.impawards.com/2023/posters/barbie_ver2.jpg'
+
+},
+{
+  title: '8/4/2023',
+  text: 'Recently I haven’t been able to finish a movie. I get 30ish minutes in and I drop it, but finally I was able to with Fargo. This movie was far more playful and humorous than the other Coen brothers’ films I have seen, which I think is for the better. The setting of this movie almost acts as a character as the culture, climate, and landscapes are center stage. This movie highlights an area of the U.S. that is often forgotten by pop culture and the public. The accents, mannerisms, and performances made the film stylistic and somehow realistic at the same time. My favorite shots from the movie are when the snow is used to create an almost canvas like shot, highlighting whatever little color is in frame. Overall I enjoyed the film and would recommend; however, like other Coen brothers’ movies the film leaves little for me to reflect or think about after, at least that has been my personal experience with their work. Despite this I would still recommend a watch as I was still invested during the whole runtime. ',
+  sources: 'http://www.impawards.com/1996/posters/fargo.jpg'
 }];
 
 function generateJournal(){
