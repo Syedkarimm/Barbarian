@@ -13,6 +13,15 @@ journalSources =[[
 ],
 [
   '<img style = "margin-left: 25px; width: 400px"src="images/Fargo.jpg">'
+],
+[
+  '<img style = "margin-left: 25px; width: 400px"src="images/BrokebackMountain.jpg">'
+],
+[
+  '<img style = "margin-left: 25px; width: 400px"src="images/KillBill.jpg">'
+],
+[
+  '<img style = "margin-left: 25px; width: 400px"src="images/TheBigShort.jpg">'
 ]
 ];
 journalWords = [{
@@ -40,6 +49,21 @@ journalWords = [{
   title: '8/4/2023',
   text: 'Recently I haven’t been able to finish a movie. I get 30ish minutes in and I drop it, but finally I was able to with Fargo. This movie was far more playful and humorous than the other Coen brothers’ films I have seen, which I think is for the better. The setting of this movie almost acts as a character as the culture, climate, and landscapes are center stage. This movie highlights an area of the U.S. that is often forgotten by pop culture and the public. The accents, mannerisms, and performances made the film stylistic and somehow realistic at the same time. My favorite shots from the movie are when the snow is used to create an almost canvas like shot, highlighting whatever little color is in frame. Overall I enjoyed the film and would recommend; however, like other Coen brothers’ movies the film leaves little for me to reflect or think about after, at least that has been my personal experience with their work. Despite this I would still recommend a watch as I was still invested during the whole runtime. ',
   sources: 'http://www.impawards.com/1996/posters/fargo.jpg'
+},
+{
+  title: '8/11/2023',
+  text: "I rewatched one of my favorite movies, Brokeback Mountain, while on vacation in Oklahoma at a friend's lakehouse. We watched the movie at night in a crudely constructed blanket fort, the viewing experience felt thematic. I have seen this film before and was glad to rewatch it. Jack and Ennis’ story is one of my favorite romances, and the movie never fails to make me cry. I think the first segment of the film, which actually takes place on Brokeback Mountain, is one of my favorites out of all the movies I’ve seen. The natural beauty and the blossoming romance between the two characters are spectacular. The build up to the beginning of their intimate relationship is far more nuanced and subtle than commonly seen in most romances. On a first watch, a viewer might think that Jack and Ennis’ first sexual encounter was out of the blue and not justified, but with careful viewing of their interactions prior, a viewer can see where and how their romance grows. Each interaction between the two in this segment is intentional and carries a great deal of weight; however, without proper awareness these scenes can be mistaken for mundane banter. I wish more movies would take this approach to romances, where the internal thoughts of the characters are hidden and their actions must be deciphered, rather than having a first person view of one or both of the characters internal monologues. I enjoyed this film as I have enjoyed it before and will most likely again, and I highly recommend you watch it. ",
+  sources: "http://www.impawards.com/2005/posters/brokeback_mountain.jpg"
+},
+{
+  title: '9/3/2023',
+  text: "I liked this movie way more than I expected. The colors, the character designs, the action, THE MUSIC. Every single scene felt like perfectly crafted not a single moment of the film was passed up, every oppurtunity to awe the audience was taken. The hospital scene, the bride's drive through Tokyo, and the entirety of chapter 5 were my favorite parts. When it comes to <q>fun</q> movies this the epitome. I can't wait to watch the sequel and I'll be honest I hope she kills bill. ",
+  sources: "http://www.impawards.com/2003/posters/kill_bill_ver4.jpg"
+},
+{
+  title: '9/4/2023',
+  text: "Thank god I didn't go into finance",
+  sources: "http://www.impawards.com/2015/posters/big_short_ver2.jpg"
 }];
 
 function generateJournal(){
