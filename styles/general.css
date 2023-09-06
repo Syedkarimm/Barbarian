@@ -4,6 +4,10 @@ htmL{
 
 body{
   background: linear-gradient(#2c3440, rgb(90, 37, 104));
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   
   
 }
@@ -13,4 +17,5 @@ body{
   font-size: 30px;
   font-family: 'Crimson Text', serif;
   color: white;
-}
+
+} 
